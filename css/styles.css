@@ -1,0 +1,68 @@
+.logo-image {
+    /*display: none;*/
+  	margin-left: auto;
+  	margin-right: auto;
+  	margin-top: 7em;
+  	margin-bottom: 5em;
+  	display: block;
+    max-width: 50%;
+    height: auto;
+    width: auto\9; /* ie8 */
+}
+
+.portfolio-pic {
+	/*display: none !important;*/
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+	max-width: 30em !important;
+	max-height: 18em !important;
+	margin-bottom: 1em;
+}
+
+.portfolio-box {
+	background-color: #039be5 !important;
+	color: white;
+}
+
+#about {
+	background-color: #263238;
+}
+
+#portfolio {
+	background-color: #4f5b62;
+}
+
+#events {
+	background-color: #263238;
+
+}
+
+#certificates {
+	background-color: #4f5b62;
+}
+
+
+.carousel-inner > .item > img {
+  margin: 0 auto;
+}
+
+.carousel-indicators li {
+	/*width: 2.5em;
+	height: 0.3em;
+	border-radius: 0;*/
+	/*border: none;*/
+	border-color: #b0bec5; 
+	box-shadow: none;
+	background-color: #b0bec5;
+}
+.carousel-indicators .active {
+/*	width: 2.5em;
+	height: 0.5em;
+	border-radius: 0;*/
+	/*border: none;*/
+	border-color: #b0bec5; 
+	box-shadow: none;
+	background-color: #102027;
+}
+
